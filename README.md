@@ -16,5 +16,5 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=JaocbStanley1&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=JaocbStanley1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![Jacobs's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobStanley1)](https://github.com/anuraghazra/github-readme-stats)
+![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacobStanley1&show_icons=true&theme=transparent)
